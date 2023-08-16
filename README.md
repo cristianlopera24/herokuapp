@@ -16,7 +16,8 @@ Automation with two test cases for the Heroku app application. The first one is 
 
 ### Screenshot
 
-![c2977d14-cde5-42fe-8730-b3676a77298b](https://user-images.githubusercontent.com/56046255/230445397-6cf02143-c337-42b4-a537-305c665d4ca3.jpg)
+![image](https://github.com/cristianlopera24/herokuapp/assets/56046255/0ca46e3f-4e22-49fe-904c-125e2e677488)
+
 
 ## Technologies
 ***
